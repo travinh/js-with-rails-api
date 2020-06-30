@@ -1,0 +1,27 @@
+#content {
+    height: 400px;
+  }
+
+  .container {
+    margin: 0;
+    padding: 30px;
+    width: 20%;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+  .header {
+    padding: 20px;
+  }
+  
+  .main {
+    padding: 30px;
+  }
+  
+  .schedule-lists {
+    height: 600px;
+    overflow: scroll;
+    overflow-x: hidden;
+  }
